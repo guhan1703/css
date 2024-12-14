@@ -1,0 +1,37 @@
+
+.nbv{
+    background-color: white;
+    height: 500px;
+    width: 500px ;
+    border-color: yellow;
+    border-radius: 5px;
+    border-style: solid;
+}
+.nbb{
+    background-color: brown;
+    height:270px ;
+    width: 200px;
+    margin-left:10px;
+    margin-top: 5px;
+    
+}
+.nbn{
+    background-color: brown;
+    height:150px ;
+    width: 200px;
+    margin-left:10px;
+    margin-top: 45px;
+
+}
+.bnb{
+    background-color: rgb(231, 32, 32);
+    height: 300px;
+    width: 300px ;
+    border-width: 20px;
+    border-color: black;
+    border-style: solid;
+}
+.mnm{
+   
+    background-image:url(image.jpg) ;
+}
